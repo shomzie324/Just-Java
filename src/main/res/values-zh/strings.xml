@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+    <string name="topping_header">浇头</string>
+    <string name="name_hint">在此输入姓名</string>
+    <string name="whip_cream_box">奶油</string>
+    <string name="choc_box">巧克力</string>
+    <string name="quantity_header">数量</string>
+    <string name="order_summary_header">订单摘要</string>
+    <string name="order_button">订购</string>
+    <string name="summary_name">名称: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="total_string">总: $</string>
+    <string name="whip_cream_mesg">添加奶油？</string>
+    <string name="choc_msg">添加巧克力？</string>
+    <string name="quantity_msg">" 数量："</string>
+    <string name="thank_you_msg">谢谢 ！</string>
+    <string name="email_subject">咖啡订单</string>
+</resources>
